@@ -19,6 +19,7 @@
         android:layout_marginTop="88dp"
         android:id="@+id/button" />
 
+
     <TextView
         android:text="device address: "
         android:layout_width="wrap_content"

@@ -3,7 +3,6 @@
     package="com.bishoy.simplechat_server_side">
 
     <uses-permission android:name="android.permission.BLUETOOTH" />
-
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
 
     <application
@@ -22,10 +21,8 @@
         <activity
             android:name=".DeveicesListActivity"
             android:label="@string/selectDevice"
-            android:theme="@style/Base.Theme.AppCompat.Dialog"
-            >
-
-        </activity>
+            android:theme="@style/Base.Theme.AppCompat.Dialog"></activity>
+        <activity android:name=".ChatActivity"></activity>
     </application>
 
 </manifest>
