@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleChat_server_side</string>
+    <string name="selectDevice">selesct device</string>
+</resources>
